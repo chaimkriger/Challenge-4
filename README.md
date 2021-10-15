@@ -11,14 +11,14 @@ This project leverages python 3.7.
 
 ## Installation Guide
 
-Before running the application the following must be installed.
+Before running the application, python must be installed.
 
 
 
 
 ## Usage
 
-To use the Risk Return Analysis Application, simp;y run the code to find out which funds have the most investment potential.
+To use the Risk Return Analysis Application, simply run the code to find out which funds have the most investment potential.
 
 
 ---
